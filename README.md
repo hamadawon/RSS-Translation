@@ -17,3 +17,4 @@
  - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
  - source005 [https://www.visualcapitalist.com/feed](https://www.visualcapitalist.com/feed) -> [Visual_Capitalist_rss.xml](rss/Visual_Capitalist_rss.xml)
  - source006 [https://rsshub.app/hackernews/best](https://rsshub.app/hackernews/best) -> [Hacker_News_rss.xml](rss/Hacker_News_rss.xml)
+ - source007 [https://hackernews.betacat.io/feed.xml](https://hackernews.betacat.io/feed.xml) -> [Hacker_News_summary.xml](rss/Hacker_News_summary.xml)
